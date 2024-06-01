@@ -19,7 +19,7 @@ I thrive in fast-paced environments and am dedicated to continuous learning and 
 
 - **Vulnerability Management:** Skilled in using tools like Nessus, OpenVAS, and Qualys for vulnerability assessment and management.
 
-- **Security Frameworks & Standards:** Knowledge of NIST, Cyber Kill Chain and other industry standards and best practices.
+- **Security Frameworks & Standards:** Knowledge of NIST and other industry standards and best practices.
 
 - **Programming & Scripting:** Basic proficiency in Python, Bash for automating security tasks and processes.
 
@@ -31,7 +31,7 @@ I thrive in fast-paced environments and am dedicated to continuous learning and 
 - **CompTIA Security+**
 
 - **Google Certified Cyber Security Professional**
-- 
+
 
 ## 💼 Professional Experience
 
