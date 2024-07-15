@@ -3,7 +3,6 @@
 ## 🌐 About Me
 
 I am an aspiring SOC Analyst with a passion for cybersecurity and a keen interest in threat detection, incident response, and security information and event management (SIEM). 
-
 I thrive in fast-paced environments and am dedicated to continuous learning and professional growth in the field of cybersecurity.
 
 
@@ -90,11 +89,11 @@ I thrive in fast-paced environments and am dedicated to continuous learning and 
 
 **Cybersecurity for Energy Program**  - June 2024
 
-**PG Diploma**, Wireless Networking  		            	
-- Lambton College, Mississauga, January 2019
+**PG Diploma**, Wireless Networking - January 2019		            	
+- Lambton College, Mississauga
 
-**Btech**, Electronics and Communications  		     
-- Mahatma Gandhi University, India, May 2016
+**Btech**, Electronics and Communications - May 2016		     
+- Mahatma Gandhi University, India
 
 ## 📫 Get in Touch
 
